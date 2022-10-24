@@ -1,7 +1,7 @@
 # Bachelor-diploma
 
-### Open Source Medical Imaging Databases for Machine Learning
-[Sourse site for brief info about each database on russian](https://webiomed.ru/blog/obzor-otkrytykh-istochnikov-dannykh-meditsinskikh-izobrazhenii-dlia-mashinnogo-obucheniia/)
+## Open Source Medical Imaging Databases for Machine Learning
+### [Sourse site for brief info about each database on russian](https://webiomed.ru/blog/obzor-otkrytykh-istochnikov-dannykh-meditsinskikh-izobrazhenii-dlia-mashinnogo-obucheniia/)
 
 1. [OmniMedicalSearh database](http://www.omnimedicalsearch.com/image_databases.html)
 2. [The National Library of Medicine MedPix](https://medpix.nlm.nih.gov/home)
@@ -23,7 +23,7 @@
 18. [Diabetic retinopathy database](https://www.kaggle.com/c/diabetic-retinopathy-detection)
 19. [Multimodal Brain Tumor Segmentation Challenge database](http://braintumorsegmentation.org/)
 
-### Other sources
+#### Other sources
 - https://github.com/beamandrew/medical-data
 - https://academictorrents.com/
 - [Visual Concept Extraction Challenge in Radiology](https://visceral.eu/)
