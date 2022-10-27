@@ -28,3 +28,4 @@
 - https://academictorrents.com/
 - [Visual Concept Extraction Challenge in Radiology](https://visceral.eu/)
 - [Cervical Cancer Screening](https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening/data)
+- [many datasets, including medical](https://archive.ics.uci.edu/ml/index.php)
